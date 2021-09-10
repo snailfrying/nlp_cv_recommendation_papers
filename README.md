@@ -24,15 +24,11 @@
 
 ![traditional_recommendation](./Image/traditional_recommendation.jpg)
 
-​																													王喆-深度学习推荐系统实战
-
 
 
 ###### :dolphin:深度学习领域
 
 ![deepLearning_recommendation](./Image/deeplearning_recommendation.jpg)
-
-​																								王喆-深度学习推荐系统实战
 
 
 
@@ -43,6 +39,12 @@
 ###### :dolphin:NLP领域
 
 ​	正在画ing...
+
+
+
+##### :thumbsup: 参考文献​
+
+​	《深度学习推荐系统》-王喆
 
 
 
