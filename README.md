@@ -1,6 +1,8 @@
 # nlp_cv_recommendation_papers
 
- 		本项目是记录NLP、CV、Recommend领域到现在发展产生的papers，即以时间线去介绍原理和代码实践两个方面
+ 		![](https://github.com/getActivity/EmojiPackage/blob/master/%E5%92%B8%E9%B1%BC/%E6%91%B8%E7%9D%80%E6%88%91%E5%8F%AF%E7%88%B1%E7%9A%84%E8%87%AA%E5%B7%B1.gif)
+
+​        本项目是记录NLP、CV、Recommend领域到现在发展产生的papers，即以时间线去介绍原理和代码实践两个方面
 
  去理解三个领域的发展和ta们之间的技术联系与应用。
 
