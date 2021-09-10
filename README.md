@@ -1,30 +1,38 @@
-### nlp_cv_recommendation_papers
+# nlp_cv_recommendation_papers
 
+ 		本项目是记录NLP、CV、Recommend领域到现在发展产生的papers，即以时间线去介绍原理和代码实践两个方面
 
+ 去理解三个领域的发展和ta们之间的技术联系与应用。
 
-本项目是记录NLP、CV、Recommend领域到现在发展产生的papers，即以时间线去原理介绍和代码实践两个方面
+###### 原理介绍
 
-去理解三个领域的发展，以及ta们之间的技术联系。
+​	现阶段仅仅处于papers整理阶段，后续会不断添加papers阅读说明
 
-1. ##### 原理介绍
+###### 代码实践
 
-   现阶段仅仅处于papers整理阶段，后续会不断添加papers阅读说明
-
-2. ##### 代码实践
-
-   代码实践正在进行中，有些代码正在整理。
-
-
-
-
+​	代码实践正在进行中，有些代码正在整理。
 
 ##### papers模拟三领域发展情况
 
+​	您可从流程图找到模型关系，并可从paper中了解原理。
 
+1. 推荐领域
 
+   1. 传统领域模型发展（参考王哲-深度学习推荐系统实战
 
+      ![未命名文件](C:\Users\xiaoyunhai\Downloads\未命名文件.jpg)
 
+   2. 深度学习领域
 
+   ![recommend](C:\Users\xiaoyunhai\Downloads\recommend.jpg)
+
+   2. CV领域
+
+      正在画ing...
+
+   3. NLP领域
+
+      正在画ing...
 
 
 
