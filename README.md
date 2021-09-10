@@ -24,11 +24,17 @@
 
 ![traditional_recommendation](./Image/traditional_recommendation.jpg)
 
-<center>王喆-深度学习推荐系统实战</center>
+​																													王喆-深度学习推荐系统实战
+
+
+
 ###### :dolphin:深度学习领域
 
 ![deepLearning_recommendation](./Image/deeplearning_recommendation.jpg)
-<center>王喆-深度学习推荐系统实战</center>
+
+​																								王喆-深度学习推荐系统实战
+
+
 
 ###### :dolphin:CV领域
 
