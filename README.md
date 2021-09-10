@@ -20,11 +20,11 @@
 
    1. 传统领域模型发展（参考王哲-深度学习推荐系统实战
 
-      ![未命名文件](C:\Users\xiaoyunhai\Downloads\未命名文件.jpg)
+      ![未命名文件](./Image/traditional_recommendation.jpg)
 
    2. 深度学习领域
 
-   ![recommend](C:\Users\xiaoyunhai\Downloads\recommend.jpg)
+   ![recommend](./Image/deeplearning_recommendation.jpg)
 
    2. CV领域
 
