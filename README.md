@@ -67,6 +67,7 @@
 
   * [[EfficientNet] Rethinking Model Scaling for Convolutional Neural Networks](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/EfficientNet/%5BEfficientNet%5D%20Rethinking%20Model%20Scaling%20for%20Convolutional%20Neural%20Networks.pdf) <br />
   * [[FixEfficientNet] Fixing the train-test resolution discrepancy](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/EfficientNet/%5BFixEfficientNet%5D%20Fixing%20the%20train-test%20resolution%20discrepancy.pdf) <br />
+  * [[EfficientDet] Scalable and Efficient Object Detection](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/EfficientNet/%5BEfficientDet%5D%20Scalable%20and%20Efficient%20Object%20Detection.pdf) <br />
 
   **GAN**
 
@@ -112,8 +113,9 @@
 
   **R-CNN**
 
-  * [[Faster R-CNN] Towards Real-Time Object Detection with Region Proposal Networks](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/R-CNN/%5BFaster%20R-CNN%5D%20Towards%20Real-Time%20Object%20Detection%20with%20Region%20Proposal%20Networks.pdf) <br />
   * [[RCNN] Rich feature hierarchies for accurate object detection and semantic segmentation Tech report](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/R-CNN/%5BRCNN%5D%20Rich%20feature%20hierarchies%20for%20accurate%20object%20detection%20and%20semantic%20segmentation%20Tech%20report.pdf) <br />
+  * [[Fast R-CNN] Fast R-CNN](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/R-CNN/%5BFast%20R-CNN%5D%20Fast%20R-CNN.pdf) <br />
+  * [[Faster R-CNN] Towards Real-Time Object Detection with Region Proposal Networks](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/R-CNN/%5BFaster%20R-CNN%5D%20Towards%20Real-Time%20Object%20Detection%20with%20Region%20Proposal%20Networks.pdf) <br />
 
   **ResNet**
 
@@ -123,6 +125,7 @@
   * [[ResNetV2] Identity Mappings in Deep Residual Networks](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/ResNet/%5BResNetV2%5D%20Identity%20Mappings%20in%20Deep%20Residual%20Networks.pdf) <br />
   * [[ResNeXt] Aggregated Residual Transformations for Deep Neural Networks](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/ResNet/%5BResNeXt%5D%20Aggregated%20Residual%20Transformations%20for%20Deep%20Neural%20Networks.pdf) <br />
   * [[Wide Resnet]Wide Residual Networks](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/ResNet/%5BWide%20Resnet%5DWide%20Residual%20Networks.pdf) <br />
+  * [[SqueezeNet] AlexNet-level accuracy with 50x fewer parameters and 0.5MB model size](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/ResNet/%5BSqueezeNet%5D%20AlexNet-level%20accuracy%20with%2050x%20fewer%20parameters%20and%200.5MB%20model%20size.pdf) <br />
 
   **SENet**
 
@@ -274,6 +277,7 @@
   * [[Adam] A Method for Stochastic Optimization](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/optimization_papers/optimization%20algorithms/%5BAdam%5D%20A%20Method%20for%20Stochastic%20Optimization.pdf) <br />
   * [[Batch Normalization] Accelerating Deep Network Training by](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/optimization_papers/optimization%20algorithms/%5BBatch%20Normalization%5D%20Accelerating%20Deep%20Network%20Training%20by.pdf) <br />
   * [[Dropout] A Simple Way to Prevent Neural Networks from](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/optimization_papers/optimization%20algorithms/%5BDropout%5D%20A%20Simple%20Way%20to%20Prevent%20Neural%20Networks%20from.pdf) <br />
+  * [[NetAdapt] Platform-Aware Neural Network Adaptation for Mobile Applications](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/optimization_papers/optimization%20algorithms/%5BNetAdapt%5D%20Platform-Aware%20Neural%20Network%20Adaptation%20for%20Mobile%20Applications.pdf) <br />
 
   **transfer_learning**
 
