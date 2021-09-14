@@ -52,13 +52,10 @@
 
 * **CNN**
 
-* [[CNN History] Backpropagation Applied to Handwritten Zip Code Recognition](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/CNN/%5BCNN%20History%5D%20Backpropagation%20Applied%20to%20Handwritten%20Zip%20Code%20Recognition.pdf) <br />
-
-* [[CNN Image] ImageNet Classification with Deep Convolutional](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/CNN/%5BCNN%20Image%5D%20ImageNet%20Classification%20with%20Deep%20Convolutional.pdf) <br />
-
-* [[CNN] Notes on Convolutional Neural Networks](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/CNN/%5BCNN%5D%20Notes%20on%20Convolutional%20Neural%20Networks.pdf) <br />
-
-* [[CNN_Neocognitron ] A Self organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position ](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/CNN/%5BCNN_Neocognitron%20%5D%20A%20Self%20organizing%20Neural%20Network%20Model%20for%20a%20Mechanism%20of%20Pattern%20Recognition%20Unaffected%20by%20Shift%20in%20Position%20.pdf) <br />
+  * [[CNN History] Backpropagation Applied to Handwritten Zip Code Recognition](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/CNN/%5BCNN%20History%5D%20Backpropagation%20Applied%20to%20Handwritten%20Zip%20Code%20Recognition.pdf) <br />
+  * [[CNN Image] ImageNet Classification with Deep Convolutional](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/CNN/%5BCNN%20Image%5D%20ImageNet%20Classification%20with%20Deep%20Convolutional.pdf) <br />
+  * [[CNN] Notes on Convolutional Neural Networks](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/CNN/%5BCNN%5D%20Notes%20on%20Convolutional%20Neural%20Networks.pdf) <br />
+  * [[CNN_Neocognitron ] A Self organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position ](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/CNN/%5BCNN_Neocognitron%20%5D%20A%20Self%20organizing%20Neural%20Network%20Model%20for%20a%20Mechanism%20of%20Pattern%20Recognition%20Unaffected%20by%20Shift%20in%20Position%20.pdf) <br />
 
 
   **AlexNet**
@@ -192,41 +189,25 @@
 
   * **Neural Networks**
 
-* [[ALBERT] A Lite BERT for Self-supervised Learning of Language Representations](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BALBERT%5D%20A%20Lite%20BERT%20for%20Self-supervised%20Learning%20of%20Language%20Representations.pdf) <br />
+    * [[ALBERT] A Lite BERT for Self-supervised Learning of Language Representations](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BALBERT%5D%20A%20Lite%20BERT%20for%20Self-supervised%20Learning%20of%20Language%20Representations.pdf) <br />
+    * [[BERT] Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BBERT%5D%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.pdf) <br />
+    * [[CNN] Notes on Convolutional Neural Networks](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BCNN%5D%20Notes%20on%20Convolutional%20Neural%20Networks.pdf) <br />
+    * [[ELECTRA] Pre-training Text Encoders as Discriminators Rather Than Generators](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BELECTRA%5D%20Pre-training%20Text%20Encoders%20as%20Discriminators%20Rather%20Than%20Generators.pdf) <br />
+    * [[ELMO] Deep contextualized word representations](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BELMO%5D%20Deep%20contextualized%20word%20representations.pdf) <br />
+    * [[ERNIE 2.0] A Continual Pre-Training Framework for Language Understanding](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BERNIE%202.0%5D%20A%20Continual%20Pre-Training%20Framework%20for%20Language%20Understanding.pdf) <br />
+    * [[ERNIE] Enhanced Representation through Knowledge Integration](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BERNIE%5D%20Enhanced%20Representation%20through%20Knowledge%20Integration.pdf) <br />
+    * [[GPT 2.0] Language Models are Unsupervised Multitask Learners](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BGPT%202.0%5D%20Language%20Models%20are%20Unsupervised%20Multitask%20Learners.pdf) <br />
+    * [[GPT] Improving Language Understanding by Generative Pre-Training](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BGPT%5D%20Improving%20Language%20Understanding%20by%20Generative%20Pre-Training.pdf) <br />
+    * [[GRU] Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BGRU%5D%20Learning%20Phrase%20Representations%20using%20RNN%20Encoder%E2%80%93Decoder%20for%20Statistical%20Machine%20Translation.pdf) <br />
+    * [[LSTM] Long Short-Term Memory Based Recurrent Neural Network Architectures for Large Vocabulary Speech Recognition](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BLSTM%5D%20Long%20Short-Term%20Memory%20Based%20Recurrent%20Neural%20Network%20Architectures%20for%20Large%20Vocabulary%20Speech%20Recognition.pdf) <br />
+    * [[RNN]An Evolutionary Approach to Associative Memory in Recurrent Neural Networks](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BRNN%5DAn%20Evolutionary%20Approach%20to%20Associative%20Memory%20in%20Recurrent%20Neural%20Networks.pdf) <br />
+    * [[RoBERTa] A Robustly Optimized BERT Pretraining Approach](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BRoBERTa%5D%20A%20Robustly%20Optimized%20BERT%20Pretraining%20Approach.pdf) <br />
+    * [[Seq2Seq ] Sequence to Sequence Learning with Neural Networks](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BSeq2Seq%20%5D%20Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.pdf) <br />
+    * [[Transformer] Attention Is All You Need](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BTransformer%5D%20Attention%20Is%20All%20You%20Need.pdf) <br />
+    * [[Weighted transformer] WEIGHTED TRANSFORMER NETWORK FOR MACHINE TRANSLATION](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BWeighted%20transformer%5D%20WEIGHTED%20TRANSFORMER%20NETWORK%20FOR%20MACHINE%20TRANSLATION.pdf) <br />
+    * [[XLNet] Generalized Autoregressive Pretraining](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BXLNet%5D%20Generalized%20Autoregressive%20Pretraining.pdf) <br />
 
-* [[BERT] Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BBERT%5D%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.pdf) <br />
-
-* [[CNN] Notes on Convolutional Neural Networks](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BCNN%5D%20Notes%20on%20Convolutional%20Neural%20Networks.pdf) <br />
-
-* [[ELECTRA] Pre-training Text Encoders as Discriminators Rather Than Generators](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BELECTRA%5D%20Pre-training%20Text%20Encoders%20as%20Discriminators%20Rather%20Than%20Generators.pdf) <br />
-
-* [[ELMO] Deep contextualized word representations](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BELMO%5D%20Deep%20contextualized%20word%20representations.pdf) <br />
-
-* [[ERNIE 2.0] A Continual Pre-Training Framework for Language Understanding](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BERNIE%202.0%5D%20A%20Continual%20Pre-Training%20Framework%20for%20Language%20Understanding.pdf) <br />
-
-* [[ERNIE] Enhanced Representation through Knowledge Integration](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BERNIE%5D%20Enhanced%20Representation%20through%20Knowledge%20Integration.pdf) <br />
-
-* [[GPT 2.0] Language Models are Unsupervised Multitask Learners](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BGPT%202.0%5D%20Language%20Models%20are%20Unsupervised%20Multitask%20Learners.pdf) <br />
-
-* [[GPT] Improving Language Understanding by Generative Pre-Training](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BGPT%5D%20Improving%20Language%20Understanding%20by%20Generative%20Pre-Training.pdf) <br />
-
-* [[GRU] Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BGRU%5D%20Learning%20Phrase%20Representations%20using%20RNN%20Encoder%E2%80%93Decoder%20for%20Statistical%20Machine%20Translation.pdf) <br />
-
-* [[LSTM] Long Short-Term Memory Based Recurrent Neural Network Architectures for Large Vocabulary Speech Recognition](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BLSTM%5D%20Long%20Short-Term%20Memory%20Based%20Recurrent%20Neural%20Network%20Architectures%20for%20Large%20Vocabulary%20Speech%20Recognition.pdf) <br />
-
-* [[RNN]An Evolutionary Approach to Associative Memory in Recurrent Neural Networks](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BRNN%5DAn%20Evolutionary%20Approach%20to%20Associative%20Memory%20in%20Recurrent%20Neural%20Networks.pdf) <br />
-
-* [[RoBERTa] A Robustly Optimized BERT Pretraining Approach](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BRoBERTa%5D%20A%20Robustly%20Optimized%20BERT%20Pretraining%20Approach.pdf) <br />
-
-* [[Seq2Seq ] Sequence to Sequence Learning with Neural Networks](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BSeq2Seq%20%5D%20Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.pdf) <br />
-
-* [[Transformer] Attention Is All You Need](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BTransformer%5D%20Attention%20Is%20All%20You%20Need.pdf) <br />
-
-* [[Weighted transformer] WEIGHTED TRANSFORMER NETWORK FOR MACHINE TRANSLATION](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BWeighted%20transformer%5D%20WEIGHTED%20TRANSFORMER%20NETWORK%20FOR%20MACHINE%20TRANSLATION.pdf) <br />
-
-* [[XLNet] Generalized Autoregressive Pretraining](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks/%5BXLNet%5D%20Generalized%20Autoregressive%20Pretraining.pdf) <br />
-
-  **Survey**
+    **Survey**
 
 * [[Survey ] A Survey of Word Embeddings Evaluation Methods](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Survey/%5BSurvey%20%5D%20A%20Survey%20of%20Word%20Embeddings%20Evaluation%20Methods.pdf) <br />
 
