@@ -38,7 +38,7 @@
 
 ###### :dolphin:CV领域
 
-​	![cv](./Image/cv.jpg)
+​	![cv](./Image/cv1.jpg)
 
 ###### :dolphin:NLP领域
 
