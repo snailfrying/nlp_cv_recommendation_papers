@@ -38,7 +38,7 @@
 
 ###### :dolphin:CV领域
 
-​	![deepLearning_recommendation](./Image/CV.jpg)
+​	![deepLearning_recommendation](./Image/cv.jpg)
 
 ###### :dolphin:NLP领域
 
