@@ -8,11 +8,19 @@
 
 ###### :imp: 原理介绍
 
-1. 现阶段papers梳理完成，后续会不断添加papers详细说明与代码实践
+1. 现阶段papers梳理完成，后续会针对代码和paper书写blog说明，并公布。
 
 ######  :imp: 代码实践
 
-1. 代码实践正在进行中，有些代码正在整理。
+1. cv领域有些代码已经上传，大家可参考。
+
+######  :imp:建议阅读方式
+
+	1. 找出你关心的**领域**，如cv
+ 	2. 根据cv流程图，与自己理解和Google，找出各个模型的关系和发展。
+ 	3. 根据你的**理解**和关心的内容，找到paper，进行阅读和整理。
+ 	4. 根据代码，分析paper和代码实践的差异与优化点，并运行查看各个**结构**和超参数对结构的影响。
+ 	5. 如果有**blog**,可根据我的**理解**，**共同**探讨和提出对模型的疑问，大家共同成长。
 
 ---
 
@@ -46,7 +54,32 @@
 
 ----
 
+#### 目录
 
+####   [cv_papers](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers)
+
+* [  AlexNet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/AlexNet) 	 [CNN](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/CNN) 	 [DeepMind](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/DeepMind) 	 [DenseNet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/DenseNet) 	 [EfficientNet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/EfficientNet) 
+
+*  [GAN](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/GAN) 	 [Inception_	GoogleNet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/Inception_GoogleNet) 	 [leNet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/leNet) 	 [MnasNet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/MnasNet) 
+
+*  [MobileNet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/MobileNet) 	 [NASNet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/NASNet)  	[NIN](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/NIN) 	 [R-CNN](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/R-CNN) 	[ResNet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/ResNet)  	[SENet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/SENet) 
+
+*  [ShuffleNet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/ShuffleNet)  	[VGG](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/VGG)  	[Vit](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/Vit)  	[Yolo](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/Yolo)  	[ZFNet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/ZFNet) 
+
+####  [nlp_papers](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers) 
+
+*  [Attention](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Attention)	 [Embedding	](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Embedding)  [Neural Networks](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Neural%20Networks)  	[Survey](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Survey)  	 [recommend_papers](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/recommend_papers)
+
+#####  [deepLearning_recommendations](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/recommend_papers/deepLearning_recommendations)
+
+*  [embedding](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/recommend_papers/embedding)  	[traditional_recommendations](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/recommend_papers/traditional_recommendations) 	[optimization_papers](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/optimization_papers)
+   [optimization algorithms](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/optimization_papers/optimization%20algorithms)	 [transfer_learning](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/optimization_papers/transfer_learning) 
+
+#### cv_python_code
+
+* [AlexNet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/AlexNet/AlexNet.py)  * [DenseNet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/DenseNet/DenseNet.py)  * [inception_v1](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/Inception_GoogleNet/inception_v1.py)  * [Xception](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/Inception_GoogleNet/Xception.py)  * [leNet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/leNet/leNet.py)  * [MobileNet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/MobileNet/MobileNet.py)  * [NIN](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/NIN/NIN.py)  * [ResNet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/ResNet/ResNet.py)  * [SENet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/SENet/SENet.py)  * [VGG](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/VGG/VGG.py)  * [ZFNet](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/ZFNet/ZFNet.py)  
+
+-----
 
 ### cv_papers
 
