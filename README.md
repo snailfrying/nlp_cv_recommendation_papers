@@ -45,7 +45,7 @@
 #### [deepLearning_recommendations](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/recommend_papers/deepLearning_recommendations)
 
 *  [embedding](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/recommend_papers/embedding)  	[traditional_recommendations](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/recommend_papers/traditional_recommendations) 	[optimization_papers](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/optimization_papers)
-   [optimization algorithms](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/optimization_papers/optimization%20algorithms)	 [transfer_learning](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/optimization_papers/transfer_learning) 
+*  [optimization algorithms](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/optimization_papers/optimization%20algorithms)	 [transfer_learning](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/optimization_papers/transfer_learning) 
 
 #### cv_python_code
 
