@@ -60,24 +60,27 @@
 ####  :whale2: papers模拟三领域发展情况
 
 1. 您可从流程图找到模型之间的联系(主要从实践和方法建立流程图，全个人理解！！！)，并可从paper中了解原理。
-
 2. 对于各个模型之间的联系如有疑问或错误，欢迎共同探讨！！！
+
+---
 
 ######  :ram:推荐-**传统领域**  
 
 ![traditional_recommendation](./Image/traditional_recommendation.jpg)
 
-
+---
 
 ###### :dolphin:推荐-深度学习领域
 
 ![deepLearning_recommendation](./Image/deeplearning_recommendation.jpg)
 
-
+---
 
 ###### :dolphin:CV领域
 
 ​	![cv](./Image/cv1.jpg)
+
+---
 
 ###### :dolphin:NLP领域
 
@@ -203,6 +206,8 @@
 
   * [[ZFNet] Visualizing and Understanding Convolutional Networks](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/cv_papers/ZFNet/%5BZFNet%5D%20Visualizing%20and%20Understanding%20Convolutional%20Networks.pdf) <br />
 
+  ---
+
   ### nlp_papers
 
   ###### Attention
@@ -253,6 +258,8 @@
   * [[Survey] Comparative Study of CNN and RNN for Natural Language Processing](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Survey/%5BSurvey%5D%20Comparative%20Study%20of%20CNN%20and%20RNN%20for%20Natural%20Language%20Processing.pdf) <br />
   * [[Survey] From Word to Sense EmbeddingsA Survey on Vector Representations of Meaning](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Survey/%5BSurvey%5D%20From%20Word%20to%20Sense%20EmbeddingsA%20Survey%20on%20Vector%20Representations%20of%20Meaning.pdf) <br />
   * [[Survey] Word Embeddings](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/nlp_papers/Survey/%5BSurvey%5D%20Word%20Embeddings.pdf) <br />
+
+  ---
 
   ### recommend_papers
 
@@ -314,6 +321,8 @@
   * [[Tree] Classification and regression trees](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/recommend_papers/traditional_recommendations/%5BTree%5D%20Classification%20and%20regression%20trees.pdf) <br />
   * [[XGBoost] A Scalable Tree Boosting System](https://github.com/snailfrying/nlp_cv_recommendation_papers/blob/main/recommend_papers/traditional_recommendations/%5BXGBoost%5D%20A%20Scalable%20Tree%20Boosting%20System.pdf) <br />
 
+  ---
+
   ### optimization_papers
 
   ###### optimization algorithms
@@ -358,9 +367,13 @@
 
 -----
 
-###### :thumbsup: 参考文献​
+###### :thumbsup: 参考文献
 
 ​	《深度学习推荐系统》-王喆
+
+###### :thumbsup: 联系方式
+
+​	 如果你有任何问题，可发送邮箱： snailfrying@gmail.com.
 
 
 
