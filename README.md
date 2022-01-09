@@ -74,7 +74,7 @@
 
 ###### :dolphin:推荐-深度学习领域
 
-![deepLearning_recommendation](./Image/rec_v2 .jpg)
+![deepLearning_recommendation](./Image/rec_v2.jpg)
 
 ---
 
